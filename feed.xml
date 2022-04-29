@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Annuaire Agistaterre</title>
-    <link href="https://agistaterre.github.io/feed.xml" rel="self" />
-    <link href="https://agistaterre.github.io" />
+    <link href="https://annuaire.agistaterre.org/feed.xml" rel="self" />
+    <link href="https://annuaire.agistaterre.org" />
     <updated>2022-04-29T11:44:35+02:00</updated>
     <author>
         <name>Agistaterre</name>
     </author>
-    <id>https://agistaterre.github.io</id>
+    <id>https://annuaire.agistaterre.org</id>
 
     <entry>
         <title>🌐 Mieux consommer - sur Internet</title>
         <author>
             <name>Agistaterre</name>
         </author>
-        <link href="https://agistaterre.github.io/mieux-consommer-sur-internet/"/>
-        <id>https://agistaterre.github.io/mieux-consommer-sur-internet/</id>
+        <link href="https://annuaire.agistaterre.org/mieux-consommer-sur-internet/"/>
+        <id>https://annuaire.agistaterre.org/mieux-consommer-sur-internet/</id>
             <category term="Consommation"/>
 
         <updated>2022-04-24T12:00:07+02:00</updated>
@@ -52,8 +52,8 @@
         <author>
             <name>Agistaterre</name>
         </author>
-        <link href="https://agistaterre.github.io/mieux-consommer/"/>
-        <id>https://agistaterre.github.io/mieux-consommer/</id>
+        <link href="https://annuaire.agistaterre.org/mieux-consommer/"/>
+        <id>https://annuaire.agistaterre.org/mieux-consommer/</id>
             <category term="Consommation"/>
 
         <updated>2022-04-28T21:29:50+02:00</updated>
@@ -114,8 +114,8 @@
         <author>
             <name>Agistaterre</name>
         </author>
-        <link href="https://agistaterre.github.io/les-bus-gratuits-vitobus/"/>
-        <id>https://agistaterre.github.io/les-bus-gratuits-vitobus/</id>
+        <link href="https://annuaire.agistaterre.org/les-bus-gratuits-vitobus/"/>
+        <id>https://annuaire.agistaterre.org/les-bus-gratuits-vitobus/</id>
             <category term="Transports"/>
 
         <updated>2022-04-24T12:05:13+02:00</updated>
@@ -139,8 +139,8 @@
         <author>
             <name>Agistaterre</name>
         </author>
-        <link href="https://agistaterre.github.io/prendre-le-train/"/>
-        <id>https://agistaterre.github.io/prendre-le-train/</id>
+        <link href="https://annuaire.agistaterre.org/prendre-le-train/"/>
+        <id>https://annuaire.agistaterre.org/prendre-le-train/</id>
             <category term="Transports"/>
 
         <updated>2022-04-28T21:31:06+02:00</updated>
@@ -180,8 +180,8 @@
         <author>
             <name>Agistaterre</name>
         </author>
-        <link href="https://agistaterre.github.io/covoiturer/"/>
-        <id>https://agistaterre.github.io/covoiturer/</id>
+        <link href="https://annuaire.agistaterre.org/covoiturer/"/>
+        <id>https://annuaire.agistaterre.org/covoiturer/</id>
             <category term="Transports"/>
 
         <updated>2022-04-24T12:07:34+02:00</updated>
@@ -225,8 +225,8 @@
         <author>
             <name>Agistaterre</name>
         </author>
-        <link href="https://agistaterre.github.io/les-fermes-aux-alentours/"/>
-        <id>https://agistaterre.github.io/les-fermes-aux-alentours/</id>
+        <link href="https://annuaire.agistaterre.org/les-fermes-aux-alentours/"/>
+        <id>https://annuaire.agistaterre.org/les-fermes-aux-alentours/</id>
             <category term="Alimentation"/>
 
         <updated>2022-04-24T12:03:51+02:00</updated>
@@ -311,8 +311,8 @@
         <author>
             <name>Agistaterre</name>
         </author>
-        <link href="https://agistaterre.github.io/magasins-bio-etou-locaux/"/>
-        <id>https://agistaterre.github.io/magasins-bio-etou-locaux/</id>
+        <link href="https://annuaire.agistaterre.org/magasins-bio-etou-locaux/"/>
+        <id>https://annuaire.agistaterre.org/magasins-bio-etou-locaux/</id>
             <category term="Alimentation"/>
 
         <updated>2022-04-24T12:02:57+02:00</updated>
@@ -366,8 +366,8 @@
         <author>
             <name>Agistaterre</name>
         </author>
-        <link href="https://agistaterre.github.io/recycler-2/"/>
-        <id>https://agistaterre.github.io/recycler-2/</id>
+        <link href="https://annuaire.agistaterre.org/recycler-2/"/>
+        <id>https://annuaire.agistaterre.org/recycler-2/</id>
             <category term="Consommation"/>
 
         <updated>2022-04-29T11:39:34+02:00</updated>
@@ -397,8 +397,8 @@
         <author>
             <name>Agistaterre</name>
         </author>
-        <link href="https://agistaterre.github.io/bienvenue/"/>
-        <id>https://agistaterre.github.io/bienvenue/</id>
+        <link href="https://annuaire.agistaterre.org/bienvenue/"/>
+        <id>https://annuaire.agistaterre.org/bienvenue/</id>
 
         <updated>2022-04-29T11:44:35+02:00</updated>
             <summary>
@@ -418,8 +418,8 @@
         <author>
             <name>Agistaterre</name>
         </author>
-        <link href="https://agistaterre.github.io/aidez-nous/"/>
-        <id>https://agistaterre.github.io/aidez-nous/</id>
+        <link href="https://annuaire.agistaterre.org/aidez-nous/"/>
+        <id>https://annuaire.agistaterre.org/aidez-nous/</id>
 
         <updated>2022-04-29T11:36:21+02:00</updated>
             <summary>
