@@ -3,7 +3,7 @@
     <title>Annuaire Agistaterre</title>
     <link href="https://annuaire.agistaterre.org/feed.xml" rel="self" />
     <link href="https://annuaire.agistaterre.org" />
-    <updated>2022-04-29T11:44:35+02:00</updated>
+    <updated>2022-04-29T13:16:09+02:00</updated>
     <author>
         <name>Agistaterre</name>
     </author>
@@ -400,7 +400,7 @@
         <link href="https://annuaire.agistaterre.org/bienvenue/"/>
         <id>https://annuaire.agistaterre.org/bienvenue/</id>
 
-        <updated>2022-04-29T11:44:35+02:00</updated>
+        <updated>2022-04-29T13:16:09+02:00</updated>
             <summary>
                 <![CDATA[
                     Ce site a pour ambition de faire découvrir les acteurs et initiatives dans le pays de Chateaubourg et ses environs autour du thème de la transition face au déréglement climatique Une info inexacte ? une initiative manquante ? un nouvel acteur ? S’il vous plaît&hellip;
@@ -410,6 +410,7 @@
             <![CDATA[
                 <p>Ce site a pour ambition de faire découvrir les acteurs et initiatives dans le pays de Chateaubourg et ses environs autour du thème de la transition face au déréglement climatique</p>
 <p>Une info inexacte ? une initiative manquante ? un nouvel acteur ? S’il vous plaît faites le nous savoir via ce formulaire de contact : <a href="https://www.agistaterre.org/contact/">https://www.agistaterre.org/contact/</a> </p>
+<p>Et pour en savoir plus sur l'association Agis Ta Terre, c'est ici : <a href="https://www.agistaterre.org/">https://www.agistaterre.org/</a> </p>
             ]]>
         </content>
     </entry>
