@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Agistaterre</title>
+    <title>Annuaire Agistaterre</title>
     <link href="https://agistaterre.github.io/feed.xml" rel="self" />
     <link href="https://agistaterre.github.io" />
-    <updated>2022-04-28T21:31:06+02:00</updated>
+    <updated>2022-04-29T11:44:35+02:00</updated>
     <author>
         <name>Agistaterre</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>Agistaterre</name>
         </author>
-        <link href="https://agistaterre.github.io/mieux-consommer-sur-internet.html"/>
-        <id>https://agistaterre.github.io/mieux-consommer-sur-internet.html</id>
+        <link href="https://agistaterre.github.io/mieux-consommer-sur-internet/"/>
+        <id>https://agistaterre.github.io/mieux-consommer-sur-internet/</id>
             <category term="Consommation"/>
 
         <updated>2022-04-24T12:00:07+02:00</updated>
@@ -52,8 +52,8 @@
         <author>
             <name>Agistaterre</name>
         </author>
-        <link href="https://agistaterre.github.io/mieux-consommer.html"/>
-        <id>https://agistaterre.github.io/mieux-consommer.html</id>
+        <link href="https://agistaterre.github.io/mieux-consommer/"/>
+        <id>https://agistaterre.github.io/mieux-consommer/</id>
             <category term="Consommation"/>
 
         <updated>2022-04-28T21:29:50+02:00</updated>
@@ -114,8 +114,8 @@
         <author>
             <name>Agistaterre</name>
         </author>
-        <link href="https://agistaterre.github.io/les-bus-gratuits-vitobus.html"/>
-        <id>https://agistaterre.github.io/les-bus-gratuits-vitobus.html</id>
+        <link href="https://agistaterre.github.io/les-bus-gratuits-vitobus/"/>
+        <id>https://agistaterre.github.io/les-bus-gratuits-vitobus/</id>
             <category term="Transports"/>
 
         <updated>2022-04-24T12:05:13+02:00</updated>
@@ -139,8 +139,8 @@
         <author>
             <name>Agistaterre</name>
         </author>
-        <link href="https://agistaterre.github.io/prendre-le-train.html"/>
-        <id>https://agistaterre.github.io/prendre-le-train.html</id>
+        <link href="https://agistaterre.github.io/prendre-le-train/"/>
+        <id>https://agistaterre.github.io/prendre-le-train/</id>
             <category term="Transports"/>
 
         <updated>2022-04-28T21:31:06+02:00</updated>
@@ -180,8 +180,8 @@
         <author>
             <name>Agistaterre</name>
         </author>
-        <link href="https://agistaterre.github.io/covoiturer.html"/>
-        <id>https://agistaterre.github.io/covoiturer.html</id>
+        <link href="https://agistaterre.github.io/covoiturer/"/>
+        <id>https://agistaterre.github.io/covoiturer/</id>
             <category term="Transports"/>
 
         <updated>2022-04-24T12:07:34+02:00</updated>
@@ -225,8 +225,8 @@
         <author>
             <name>Agistaterre</name>
         </author>
-        <link href="https://agistaterre.github.io/les-fermes-aux-alentours.html"/>
-        <id>https://agistaterre.github.io/les-fermes-aux-alentours.html</id>
+        <link href="https://agistaterre.github.io/les-fermes-aux-alentours/"/>
+        <id>https://agistaterre.github.io/les-fermes-aux-alentours/</id>
             <category term="Alimentation"/>
 
         <updated>2022-04-24T12:03:51+02:00</updated>
@@ -311,8 +311,8 @@
         <author>
             <name>Agistaterre</name>
         </author>
-        <link href="https://agistaterre.github.io/magasins-bio-etou-locaux.html"/>
-        <id>https://agistaterre.github.io/magasins-bio-etou-locaux.html</id>
+        <link href="https://agistaterre.github.io/magasins-bio-etou-locaux/"/>
+        <id>https://agistaterre.github.io/magasins-bio-etou-locaux/</id>
             <category term="Alimentation"/>
 
         <updated>2022-04-24T12:02:57+02:00</updated>
@@ -366,11 +366,11 @@
         <author>
             <name>Agistaterre</name>
         </author>
-        <link href="https://agistaterre.github.io/recycler-2.html"/>
-        <id>https://agistaterre.github.io/recycler-2.html</id>
+        <link href="https://agistaterre.github.io/recycler-2/"/>
+        <id>https://agistaterre.github.io/recycler-2/</id>
             <category term="Consommation"/>
 
-        <updated>2022-04-24T12:07:55+02:00</updated>
+        <updated>2022-04-29T11:39:34+02:00</updated>
             <summary>
                 <![CDATA[
                     🍾 Les bouchons en liège https://www.agistaterre.org/creez-votre-site-avec-des-blocs/nos-actions/consommation-responsable/recyclage-de-bouchons-en-liege/ https://www.agistaterre.org/creez-votre-site-avec-des-blocs/nos-actions/consommation-responsable/operation-broyage-de-sapins-de-noel/ 
@@ -382,12 +382,12 @@
 <h3>Table des matières</h3>
 <ul>
 <li><a href="#mcetoc_1g1dgld1kts">🍾 Les bouchons en liège</a></li>
-<li><a href="#mcetoc_1g1dgld1ktt">🎄 Les sapins de Nöel</a></li>
+<li><a href="#mcetoc_1g1dgld1ktt">🎄 Les sapins de Noël</a></li>
 </ul>
 </div>
 <h2 id="mcetoc_1g1dgld1kts">🍾 Les bouchons en liège</h2>
 <p><a href="https://www.agistaterre.org/creez-votre-site-avec-des-blocs/nos-actions/consommation-responsable/recyclage-de-bouchons-en-liege/">https://www.agistaterre.org/creez-votre-site-avec-des-blocs/nos-actions/consommation-responsable/recyclage-de-bouchons-en-liege/</a> </p>
-<h2 id="mcetoc_1g1dgld1ktt">🎄 Les sapins de Nöel</h2>
+<h2 id="mcetoc_1g1dgld1ktt">🎄 Les sapins de Noël</h2>
 <p><a href="https://www.agistaterre.org/creez-votre-site-avec-des-blocs/nos-actions/consommation-responsable/operation-broyage-de-sapins-de-noel/">https://www.agistaterre.org/creez-votre-site-avec-des-blocs/nos-actions/consommation-responsable/operation-broyage-de-sapins-de-noel/</a> </p>
             ]]>
         </content>
@@ -397,10 +397,10 @@
         <author>
             <name>Agistaterre</name>
         </author>
-        <link href="https://agistaterre.github.io/bienvenue.html"/>
-        <id>https://agistaterre.github.io/bienvenue.html</id>
+        <link href="https://agistaterre.github.io/bienvenue/"/>
+        <id>https://agistaterre.github.io/bienvenue/</id>
 
-        <updated>2022-04-24T12:11:29+02:00</updated>
+        <updated>2022-04-29T11:44:35+02:00</updated>
             <summary>
                 <![CDATA[
                     Ce site a pour ambition de faire découvrir les acteurs et initiatives dans le pays de Chateaubourg et ses environs autour du thème de la transition face au déréglement climatique Une info inexacte ? une initiative manquante ? un nouvel acteur ? S’il vous plaît&hellip;
@@ -409,7 +409,7 @@
         <content type="html">
             <![CDATA[
                 <p>Ce site a pour ambition de faire découvrir les acteurs et initiatives dans le pays de Chateaubourg et ses environs autour du thème de la transition face au déréglement climatique</p>
-<p>Une info inexacte ? une initiative manquante ? un nouvel acteur ? S’il vous plaît faites le nous savoir en envoyant un email à <a href="mailto:agistaterre35@gmail.com">agistaterre35@gmail.com</a> </p>
+<p>Une info inexacte ? une initiative manquante ? un nouvel acteur ? S’il vous plaît faites le nous savoir via ce formulaire de contact : <a href="https://www.agistaterre.org/contact/">https://www.agistaterre.org/contact/</a> </p>
             ]]>
         </content>
     </entry>
@@ -418,19 +418,19 @@
         <author>
             <name>Agistaterre</name>
         </author>
-        <link href="https://agistaterre.github.io/aidez-nous.html"/>
-        <id>https://agistaterre.github.io/aidez-nous.html</id>
+        <link href="https://agistaterre.github.io/aidez-nous/"/>
+        <id>https://agistaterre.github.io/aidez-nous/</id>
 
-        <updated>2022-04-25T22:31:51+02:00</updated>
+        <updated>2022-04-29T11:36:21+02:00</updated>
             <summary>
                 <![CDATA[
-                    Envie de contribuer à enrichir ce site ? Il est fort probable qu’il manque des informations sur ce site, ou bien que certaines informations soient inexactes ou incomplètes. Aidez nous à corriger ou enrichir ce site en nous envoyant vos remarques à agistaterre35@gmail.com 
+                    Envie de contribuer à enrichir ce site ? Il est fort probable qu’il manque des informations sur ce site, ou bien que certaines informations soient inexactes ou incomplètes. Aidez nous à corriger ou enrichir ce site en nous envoyant vos remarques via ce formulaire de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h2>Envie de contribuer à enrichir ce site ?</h2>
-<p>Il est fort probable qu’il manque des informations sur ce site, ou bien que certaines informations soient inexactes ou incomplètes.<br><br>Aidez nous à corriger ou enrichir ce site en nous envoyant vos remarques à <a href="mailto:agistaterre35@gmail.com">agistaterre35@gmail.com</a> </p>
+<p>Il est fort probable qu’il manque des informations sur ce site, ou bien que certaines informations soient inexactes ou incomplètes.<br><br>Aidez nous à corriger ou enrichir ce site en nous envoyant vos remarques via ce formulaire de contact : <a href="https://www.agistaterre.org/contact/">https://www.agistaterre.org/contact/</a> </p>
             ]]>
         </content>
     </entry>
