@@ -3,7 +3,7 @@
     <title>Annuaire Agistaterre</title>
     <link href="https://annuaire.agistaterre.org/feed.xml" rel="self" />
     <link href="https://annuaire.agistaterre.org" />
-    <updated>2022-05-04T16:09:01+02:00</updated>
+    <updated>2022-05-04T16:15:58+02:00</updated>
     <author>
         <name>Agistaterre</name>
     </author>
@@ -56,10 +56,10 @@
         <id>https://annuaire.agistaterre.org/mieux-consommer/</id>
             <category term="Consommation"/>
 
-        <updated>2022-05-04T16:09:01+02:00</updated>
+        <updated>2022-05-04T16:15:58+02:00</updated>
             <summary>
                 <![CDATA[
-                    📗 La Bibliothèque Informations générales : https://www.chateaubourg.fr/bibliotheque-2/ Sur Facebook : https://www.facebook.com/bibliotheque.chateaubourg/ Où c'est ? https://goo.gl/maps/8gnVHsEwERBG8p2WA Sur Facebook : https://www.facebook.com/deposectrouve/ Où c'est ? https://goo.gl/maps/q9ZAViCY1KTLcSePA Informations générales : https://www.chateaubourg.fr/contacts/entraide/ Où c'est ? https://goo.gl/maps/4vs9UyEgasH8WZdq9 Edition 2021 à Chateaubourg : https://www.agistaterre.org/creez-votre-site-avec-des-blocs/nos-actions/consommation-responsable/repair-cafe/ Le site du Repair Café de Vitré, très&hellip;
+                    📗 La Bibliothèque Informations générales : https://www.chateaubourg.fr/bibliotheque-2/ Sur Facebook : https://www.facebook.com/bibliotheque.chateaubourg/ Où c'est ? https://goo.gl/maps/8gnVHsEwERBG8p2WA Sur Facebook : https://www.facebook.com/deposectrouve/ Où c'est ? https://goo.gl/maps/q9ZAViCY1KTLcSePA Informations générales : https://www.chateaubourg.fr/contacts/entraide/ Où c'est ? https://goo.gl/maps/4vs9UyEgasH8WZdq9 Edition 2021 à Chateaubourg : https://www.agistaterre.org/creez-votre-site-avec-des-blocs/nos-actions/consommation-responsable/repair-cafe/ Site: https://www.repaircafe-vitre.fr/ Sur Facebook : https://www.facebook.com/repaircafe.vitre/ Les prochains&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -74,7 +74,13 @@
 <li><a href="#mcetoc_1g1dfengqlm">👚 Entraide</a></li>
 </ul>
 </li>
-<li><a href="#mcetoc_1g1dfengqln">🧰 Les Repair café</a></li>
+<li><a href="#mcetoc_1g1dfengqln">🧰 Les Repair café</a>
+<ul>
+<li><a href="#mcetoc_1g27mqikl5i">☕ Repair Café Chateaubourg</a></li>
+<li><a href="#mcetoc_1g27mqikl5j">☕ Repair Café Vitré</a></li>
+<li><a href="#mcetoc_1g27mqikm5k">📅 Les prochains Repair Café</a></li>
+</ul>
+</li>
 <li><a href="#mcetoc_1g1dfengqlo">🏪 Enseignes de réparation sur Chateaubourg</a>
 <ul>
 <li><a href="#mcetoc_1g1dfengqlp">📱 Help Phone Repair 35</a></li>
@@ -95,8 +101,12 @@
 <p>Informations générales : <a href="https://www.chateaubourg.fr/contacts/entraide/">https://www.chateaubourg.fr/contacts/entraide/</a> </p>
 <p>Où c'est ? <a href="https://goo.gl/maps/4vs9UyEgasH8WZdq9">https://goo.gl/maps/4vs9UyEgasH8WZdq9</a> </p>
 <h2 id="mcetoc_1g1dfengqln">🧰 Les Repair café</h2>
+<h3 id="mcetoc_1g27mqikl5i">☕ Repair Café Chateaubourg</h3>
 <p>Edition 2021 à Chateaubourg : <a href="https://www.agistaterre.org/creez-votre-site-avec-des-blocs/nos-actions/consommation-responsable/repair-cafe/">https://www.agistaterre.org/creez-votre-site-avec-des-blocs/nos-actions/consommation-responsable/repair-cafe/</a> </p>
-<p>Le site du Repair Café de Vitré, très complet: <a href="https://www.repaircafe-vitre.fr/">https://www.repaircafe-vitre.fr/</a> </p>
+<h3 id="mcetoc_1g27mqikl5j">☕ Repair Café Vitré</h3>
+<p>Site: <a href="https://www.repaircafe-vitre.fr/">https://www.repaircafe-vitre.fr/</a> </p>
+<p>Sur Facebook : <a href="https://www.facebook.com/repaircafe.vitre/">https://www.facebook.com/repaircafe.vitre/</a> </p>
+<h3 id="mcetoc_1g27mqikm5k">📅 Les prochains Repair Café</h3>
 <p>Les prochains Repair Café dans la région : <a href="https://www.repaircafe-vitre.fr/prochains-repair-cafes/">https://www.repaircafe-vitre.fr/prochains-repair-cafes/</a> </p>
 <h2 id="mcetoc_1g1dfengqlo">🏪 Enseignes de réparation sur Chateaubourg</h2>
 <h3 id="mcetoc_1g1dfengqlp">📱 Help Phone Repair 35</h3>
