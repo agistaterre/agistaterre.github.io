@@ -1,0 +1,31 @@
+/*
+ * Navbar colors customization
+ */
+.navbar .navbar__menu > li > a {
+     color: rgba(0,0,0,1);
+}
+
+.navbar .navbar__menu > li > a:hover {
+     color: rgba(0,0,0,.7);
+}
+
+.navbar .navbar__menu>li:hover>a {
+ 	 color: rgba(0,0,0,.7);
+}
+
+.navbar .navbar__submenu li a {
+    color: rgba(255,255,255,.8)!important;
+}
+
+.top.is-visible {
+ 	background: rgba(255,255,255,1);
+}
+
+/**
+ * Adding icon on _blank links
+ * From https://stackoverflow.com/a/52058198
+ */
+a[target="_blank"]::after {
+    content: '↗';
+    margin: 0 3px 0 5px;
+}
