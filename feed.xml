@@ -3,7 +3,7 @@
     <title>Annuaire Agistaterre</title>
     <link href="https://annuaire.agistaterre.org/feed.xml" rel="self" />
     <link href="https://annuaire.agistaterre.org" />
-    <updated>2022-05-08T11:22:23+02:00</updated>
+    <updated>2022-05-09T16:54:10+02:00</updated>
     <author>
         <name>Agistaterre</name>
     </author>
@@ -200,10 +200,10 @@
         <id>https://annuaire.agistaterre.org/covoiturer/</id>
             <category term="Transports"/>
 
-        <updated>2022-05-08T11:20:01+02:00</updated>
+        <updated>2022-05-09T16:54:10+02:00</updated>
             <summary>
                 <![CDATA[
-                    🅿 Aires de covoiturage Parking situé zone de la Goulgatière, allée du Vent d’Autan (30 places) Parking de la salle festive de la Clé des Champs Plus d'info sur : https://www.chateaubourg.fr/covoiturage/ Plus d'info sur : https://www.chateaubourg.fr/covoiturage/ 
+                    🅿 Aires de covoiturage Parking situé zone de la Goulgatière, allée du Vent d’Autan (30 places) Parking de la salle festive de la Clé des Champs Plus d'info sur : https://www.chateaubourg.fr/covoiturage/ Les trajets en covoiturage via klaxit sont gratuits pour le passager et rémunérés pour&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -225,9 +225,12 @@
 <ul>
 <li>Klaxit : <a href="https://www.klaxit.com/">https://www.klaxit.com/</a>
 <ul>
-<li>Vitré communauté subventionne les trajets, plus d'information ici : <a href="https://www.chateaubourg.fr/covoiturage/">https://www.chateaubourg.fr/covoiturage/</a> </li>
+<li>Vitré communauté subventionne les trajets, plus d'information ici :<a href="https://www.chateaubourg.fr/covoiturage/"> https://www.chateaubourg.fr/covoiturage/</a> et ici : <a href="https://www.vitrecommunaute.org/covoiturage/">https://www.vitrecommunaute.org/covoiturage/</a> </li>
 </ul>
 </li>
+</ul>
+<pre>Les trajets en covoiturage via klaxit sont gratuits pour le passager et rémunérés pour le conducteur.<br>Le réseau est en forte croissance, les personnes qui entrent et sortent du territoire sont également éligibles, par exemple si vous travaillez ou habitez à Rennes.</pre>
+<ul>
 <li>éhop : <a href="https://ehop.bzh/">https://ehop.bzh/</a> </li>
 <li>BlaBlaCar Daily : <a href="https://blablacardaily.com/">https://blablacardaily.com/</a></li>
 <li>Mobicoop : <a href="https://www.mobicoop.fr/">https://www.mobicoop.fr/</a></li>
