@@ -162,6 +162,18 @@
                 "isHidden": false,
                 "items": [
                     {
+                        "id": 1652990224806,
+                        "label": "📏 Mesurer notre impact",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 34,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
                         "id": 1650543707422,
                         "label": "🚗 Covoiturer",
                         "title": "",
@@ -181,6 +193,18 @@
                         "target": "_self",
                         "rel": "",
                         "link": 28,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1652988623474,
+                        "label": "🚴‍♂️ Prendre le vélo",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 32,
                         "cssClass": "",
                         "isHidden": false,
                         "items": []
