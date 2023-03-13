@@ -3,7 +3,7 @@
     <title>Annuaire Agistaterre</title>
     <link href="https://annuaire.agistaterre.org/feed.xml" rel="self" />
     <link href="https://annuaire.agistaterre.org" />
-    <updated>2023-03-13T20:05:12+01:00</updated>
+    <updated>2023-03-13T20:06:59+01:00</updated>
     <author>
         <name>Agistaterre</name>
     </author>
@@ -132,10 +132,10 @@
         <id>https://annuaire.agistaterre.org/mieux-consommer/</id>
             <category term="Consommation"/>
 
-        <updated>2023-03-13T20:05:12+01:00</updated>
+        <updated>2023-03-13T20:06:59+01:00</updated>
             <summary>
                 <![CDATA[
-                    🔁 Louer plutôt qu'acheter 📚 Médiathèque de Servon sur Vilaine La médiathèque de Servon-sur-Vilaine est un lieu multiple : Vous pouvez prendre le temps de vous poser, de feuilleter un livre, une revue ou le journal, d’écouter de la musique, d’utiliser internet ou de découvrir la&hellip;
+                    ⏳ Louer plutôt qu'acheter 📚 Médiathèque de Servon sur Vilaine La médiathèque de Servon-sur-Vilaine est un lieu multiple : Vous pouvez prendre le temps de vous poser, de feuilleter un livre, une revue ou le journal, d’écouter de la musique, d’utiliser internet ou de découvrir la&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -143,6 +143,11 @@
                 <div class="post__toc">
 <h3>Table des matières</h3>
 <ul>
+<li><a href="#mcetoc_1g1dfengqlk">⏳ Louer plutôt qu'acheter </a>
+<ul>
+<li><a href="#mcetoc_1gji1mtbu30">📚 Médiathèque de Servon sur Vilaine</a></li>
+</ul>
+</li>
 <li><a href="#mcetoc_1g1dfengqlk">🔁 Donner une deuxième vie aux objets</a>
 <ul>
 <li><a href="#mcetoc_1g1dfengqlm">👚 Entraide</a></li>
@@ -170,7 +175,7 @@
 </li>
 </ul>
 </div>
-<h2 id="mcetoc_1g1dfengqlk">🔁 Louer plutôt qu'acheter </h2>
+<h2 id="mcetoc_1g1dfengqlk">⏳ Louer plutôt qu'acheter </h2>
 <h3 id="mcetoc_1gji1mtbu30">📚 Médiathèque de Servon sur Vilaine</h3>
 <pre>La médiathèque de Servon-sur-Vilaine est un lieu multiple :<br>Vous pouvez prendre le temps de vous poser, de feuilleter un livre, une revue ou le journal, d’écouter de la musique, d’utiliser internet ou de découvrir la culture sous toutes ses formes. Vous pouvez participer aux différentes animations proposées comme des temps de lectures, des projections, des ateliers, des concerts, des rencontres et des temps d’échange.<br>L’accès et la consultation sur place sont libres et gratuits pour tous.<br>L’adhésion à la médiathèque vous donne accès aux emprunts sur tout le réseau.</pre>
 <p>Informations générales : <a href="https://mediatheques.pcc.bzh/le-reseau/les-mediatheques/servon-sur-vilaine">https://mediatheques.pcc.bzh/le-reseau/les-mediatheques/servon-sur-vilaine</a>  </p>
