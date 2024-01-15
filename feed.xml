@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Annuaire Agistaterre</title>
     <link href="https://annuaire.agistaterre.org/feed.xml" rel="self" />
     <link href="https://annuaire.agistaterre.org" />
-    <updated>2023-07-03T20:26:35+02:00</updated>
+    <updated>2024-01-15T21:11:26+01:00</updated>
     <author>
         <name>Agistaterre</name>
     </author>
@@ -509,10 +509,10 @@
         <id>https://annuaire.agistaterre.org/recycler-plus/</id>
             <category term="Consommation"/>
 
-        <updated>2022-12-05T22:09:06+01:00</updated>
+        <updated>2024-01-15T21:11:26+01:00</updated>
             <summary>
                 <![CDATA[
-                    🍾 Les bouchons en liège https://www.agistaterre.org/creez-votre-site-avec-des-blocs/nos-actions/consommation-responsable/recyclage-de-bouchons-en-liege/ https://www.agistaterre.org/creez-votre-site-avec-des-blocs/nos-actions/consommation-responsable/operation-broyage-de-sapins-de-noel/ Des bornes 123R se trouvent sur la commune de Châteaubourg, rendez-vous ici pour leur localisation exacte : https://www.123r.fr/nos-box/ Plusieurs bornes Le Relais se trouvent sur la commune de Châteaubourg, rendez-vous ici pour leur localisation exacte : https://www.lerelais.org/oudonner.php Il&hellip;
+                    🌳 Les tailles de haies et d'arbustes Le SMICTOM Sud-Est 35 propose une réduction de 50% sur la location d'un broyeur chez Méca Green Motoculture à Châteaubourg Il suffit de passer par ce formulaire en ligne : https://www.smictom-sudest35.fr/demarches-en-un-clic/reserver-un-broyeur/ Le site de Méca Green Motoculture :&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -520,6 +520,7 @@
                 <div class="post__toc">
 <h3>Table des matières</h3>
 <ul>
+<li><a href="#mcetoc_1gji1dsir15">🌳 Les tailles de haies et d'arbustes</a></li>
 <li><a href="#mcetoc_1g1dgld1kts">🍾 Les bouchons en liège</a></li>
 <li><a href="#mcetoc_1g1dgld1ktt">🎄 Les sapins de Noël</a></li>
 <li><a href="#mcetoc_1gji1dsir15">💿 Les livres d’occasion, CD/DVD et jeux vidéo</a></li>
@@ -528,6 +529,10 @@
 <li><a href="#mcetoc_1g3et3545c">🚮 Les déchets abandonnés</a></li>
 </ul>
 </div>
+<h2 id="mcetoc_1gji1dsir15">🌳 Les tailles de haies et d'arbustes</h2>
+<p>Le SMICTOM Sud-Est 35 propose une réduction de 50% sur la location d'un broyeur chez Méca Green Motoculture à Châteaubourg </p>
+<p>Il suffit de passer par ce formulaire en ligne : <a href="https://www.smictom-sudest35.fr/demarches-en-un-clic/reserver-un-broyeur/">https://www.smictom-sudest35.fr/demarches-en-un-clic/reserver-un-broyeur/</a> </p>
+<p>Le site de Méca Green Motoculture : <a href="https://www.meca-green-motoculture.com/">https://www.meca-green-motoculture.com/</a> </p>
 <h2 id="mcetoc_1g1dgld1kts">🍾 Les bouchons en liège</h2>
 <p><a href="https://www.agistaterre.org/creez-votre-site-avec-des-blocs/nos-actions/consommation-responsable/recyclage-de-bouchons-en-liege/">https://www.agistaterre.org/creez-votre-site-avec-des-blocs/nos-actions/consommation-responsable/recyclage-de-bouchons-en-liege/</a> </p>
 <h2 id="mcetoc_1g1dgld1ktt">🎄 Les sapins de Noël</h2>
